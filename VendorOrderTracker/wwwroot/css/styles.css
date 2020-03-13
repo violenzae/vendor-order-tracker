@@ -1,5 +1,4 @@
 div#footer {
-  position:fixed;
   bottom:0px;
   left: 0px;
   text-align: center;
@@ -9,8 +8,24 @@ div#footer {
   padding:8px;
 }
 
+div#header {
+  top:0px;
+  left: 0px;
+  text-align: center;
+  width:100%;
+  color:#CCC;
+  background:#333;
+  padding:8px;
+}
+
 #donut{
-  max-width: 50%;
+  width: 10%;
+  
+}
+
+.center {
+  text-align: center;
+  list-style-position: inside;
 }
 
 .panel {
@@ -24,4 +39,8 @@ div#footer {
 body {
   background-color: rgb(86, 130, 160);
   text-align: center;
+}
+
+h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

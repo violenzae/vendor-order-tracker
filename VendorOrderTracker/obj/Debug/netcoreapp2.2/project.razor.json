@@ -2976,6 +2976,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Orders\\Show.cshtml",
+      "TargetPath": "Views\\Orders\\Show.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Orders\\New.cshtml",
       "TargetPath": "Views\\Orders\\New.cshtml",
       "FileKind": "mvc"

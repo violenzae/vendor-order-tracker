@@ -7,9 +7,13 @@
     <link rel="stylesheet" type="text/css" href="~/css/styles.css" />
   </head>
   <body class="container">
+    <div id="header">
+    <h1>Pierre's Bakery</h1>
+  </div>
     <div class="panel panel-default">
     @RenderBody()
     </div>
+    <img id="donut" src="/img/donut.gif">
     @Html.Partial("Footer")
 
   </body>
