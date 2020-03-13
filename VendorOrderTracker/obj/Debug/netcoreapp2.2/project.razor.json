@@ -2979,6 +2979,11 @@
       "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Vendors\\Index.cshtml",
       "TargetPath": "Views\\Vendors\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Vendors\\New.cshtml",
+      "TargetPath": "Views\\Vendors\\New.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"

@@ -24,3 +24,4 @@ C:\Users\viole\desktop\Vendor-Order-Tracker.Solution\VendorOrderTracker\obj\Debu
 C:\Users\viole\desktop\Vendor-Order-Tracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.2\VendorOrderTracker.pdb
 C:\Users\viole\desktop\Vendor-Order-Tracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.2\VendorOrderTracker.csproj.CopyComplete
 C:\Users\viole\desktop\Vendor-Order-Tracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\Index.g.cshtml.cs
+C:\Users\viole\desktop\Vendor-Order-Tracker.Solution\VendorOrderTracker\obj\Debug\netcoreapp2.2\Razor\Views\Vendors\New.g.cshtml.cs
