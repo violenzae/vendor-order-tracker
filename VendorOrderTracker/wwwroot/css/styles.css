@@ -1,0 +1,27 @@
+div#footer {
+  position:fixed;
+  bottom:0px;
+  left: 0px;
+  text-align: center;
+  width:100%;
+  color:#CCC;
+  background:#333;
+  padding:8px;
+}
+
+#donut{
+  max-width: 50%;
+}
+
+.panel {
+
+  text-align: center;
+  background-color: rgb(167, 180, 171);
+  width: 100%;
+
+}
+
+body {
+  background-color: rgb(86, 130, 160);
+  text-align: center;
+}
