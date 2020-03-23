@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\VendorOrderTracker.csproj": {}
+    "C:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\VendorOrderTracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\VendorOrderTracker.csproj": {
+    "C:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\VendorOrderTracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\VendorOrderTracker.csproj",
+        "projectUniqueName": "C:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\VendorOrderTracker.csproj",
         "projectName": "VendorOrderTracker",
-        "projectPath": "C:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\VendorOrderTracker.csproj",
+        "projectPath": "C:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\VendorOrderTracker.csproj",
         "packagesPath": "C:\\Users\\viole\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\obj\\",
+        "outputPath": "C:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

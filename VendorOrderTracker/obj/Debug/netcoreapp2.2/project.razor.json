@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\VendorOrderTracker.csproj",
+  "FilePath": "c:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\VendorOrderTracker.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2961,42 +2961,42 @@
   "RootNamespace": "VendorOrderTracker",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Home\\Index.cshtml",
+      "FilePath": "c:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Shared\\Footer.cshtml",
+      "FilePath": "c:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Shared\\Footer.cshtml",
       "TargetPath": "Views\\Shared\\Footer.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Shared\\_Layout.cshtml",
+      "FilePath": "c:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Orders\\Show.cshtml",
+      "FilePath": "c:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Orders\\Show.cshtml",
       "TargetPath": "Views\\Orders\\Show.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Orders\\New.cshtml",
+      "FilePath": "c:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Orders\\New.cshtml",
       "TargetPath": "Views\\Orders\\New.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Vendors\\Show.cshtml",
+      "FilePath": "c:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Vendors\\Show.cshtml",
       "TargetPath": "Views\\Vendors\\Show.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Vendors\\Index.cshtml",
+      "FilePath": "c:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Vendors\\Index.cshtml",
       "TargetPath": "Views\\Vendors\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\viole\\desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Vendors\\New.cshtml",
+      "FilePath": "c:\\Users\\viole\\Desktop\\Vendor-Order-Tracker.Solution\\VendorOrderTracker\\Views\\Vendors\\New.cshtml",
       "TargetPath": "Views\\Vendors\\New.cshtml",
       "FileKind": "mvc"
     }
